@@ -1,6 +1,3 @@
-Great! Here's an updated README file incorporating the provided license information:
-
----
 
 # BulkDataExtractor
 
